@@ -185,6 +185,9 @@
 	</build>
 	</project>
 
+ ##### application.Properties
+[![propriedades.png](https://i.postimg.cc/zBGWp7jz/propriedades.png)](https://postimg.cc/gw1n2vQQ)
+
 # Etapa 4
 ##### Criando a classe Entidade
 
