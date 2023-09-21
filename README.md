@@ -77,7 +77,7 @@
 
 - **Job Repository: Mantém o estado do job (duração da execução, status da execução, erros, escritas, leituras, …), que é compartilhado com os outros componentes da solução.**
 - **Job Launcher: Executa o job de fato, considerando fatores como a forma de execução (única thread, distribuído), validação de parâmetros, restart, e outras propriedades da execução.**
-- **Job:  Este é o conceito mais genérico e mais importante dentro do Spring Batch. O próprio nome já sugere o seu significado dentro do framework: um trabalho! Em outras palavras, é o que será efetivamente executado pelo sistema.- Job:  Este é o conceito mais genérico e mais importante dentro do Spring Batch. O próprio nome já sugere o seu significado dentro do framework: um trabalho! Em outras palavras, é o que será efetivamente executado pelo sistema.**
+- **Job:  Este é o conceito mais genérico e mais importante dentro do Spring Batch. O próprio nome já sugere o seu significado dentro do framework: um trabalho! Em outras palavras, é o que será efetivamente executado pelo sistema.**
 - **Step: Representa uma etapa ou passo na qual uma lógica é executada. Steps são encadeados para obterem o produto final do processamento. Se o step for baseado em chunk (pedaços), ele terá etapas de leitura (ItemReader), processamento (ItemProcessor) e escrita de dados (ItemWriter).**
 
 
