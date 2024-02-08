@@ -33,14 +33,13 @@
 
 </div>
 
-## Integrantes 
+## Integrante
 
 <div  align="center">
 
-<a href="https://github.com/CH-dev48" target="_blank"><img src="https://i.postimg.cc/3dVrfFVv/caioo.jpg" alt="caioo"/></a>
-<a href="https://postimg.cc/xJf9NxJW" target="_blank"><img src="https://i.postimg.cc/xJf9NxJW/flav.jpg" alt="flav"/></a>
+
 <a href="https://github.com/HalleyVeras" target="_blank"><img src="https://i.postimg.cc/d7mq1P12/hal.jpg" alt="hal"/></a>
-<a href="https://github.com/Bellamcr" target="_blank"><img src="https://i.postimg.cc/r0fM115z/Izabell.jpg" alt="Izabell"/></a><br/><a href="https://github.com/petronio50" target="_blank"><img src="https://i.postimg.cc/1gZms59R/petr.jpg" alt="petr"/></a>
+
 
 </div>
 
